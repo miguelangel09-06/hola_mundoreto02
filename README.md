@@ -1,4 +1,26 @@
 # hola_mundoreto02
-Se agregan los pantallazos de "hola mundo" ejecutado de diferentes maneras=
+### Se agregan los pantallazos de "hola mundo" ejecutado de diferentes maneras=
+- En el block de notas
+- En el interprete de python
+- En visual Studio Code
+
 En el block de notas=
-![pantallazo](https://1drv.ms/i/s!Aoqy2E0LpbohnAHoejaFHZGPuJBD?e=CNLVO7) 
+
+1.
+![Captura de pantalla 2024-11-14 164614](https://github.com/user-attachments/assets/9887852d-cd3c-43cd-8ba9-a398e4afbd08)
+
+1.1.
+
+![Captura de pantalla 2024-11-14 135024](https://github.com/user-attachments/assets/dd507c73-5819-4f41-a102-8e62c8857d23)
+
+Ejecutado en el interprete de python=
+
+2.
+![Captura de pantalla 2024-11-14 135024](https://github.com/user-attachments/assets/eb3a0d38-6dd5-4014-9142-abf356d4e282)
+
+Ejecutado en Visual Studio Code=
+
+3.
+![Captura de pantalla 2024-11-14 164535](https://github.com/user-attachments/assets/0b305371-2fa3-4db5-a8ea-98c643901729)
+
+Con esto se evidencia la realización del reto #02. :)
