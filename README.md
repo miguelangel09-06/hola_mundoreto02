@@ -16,7 +16,7 @@ En el block de notas=
 Ejecutado en el interprete de python=
 
 2.
-![Captura de pantalla 2024-11-14 135024](https://github.com/user-attachments/assets/eb3a0d38-6dd5-4014-9142-abf356d4e282)
+![Captura de pantalla 2024-11-14 164658](https://github.com/user-attachments/assets/7d98b046-ce11-448b-bc6b-eed02be454af)
 
 Ejecutado en Visual Studio Code=
 
