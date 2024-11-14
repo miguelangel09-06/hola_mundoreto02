@@ -1,4 +1,4 @@
-# hola_mundoreto02
+# HOLA MUNDO reto#02 Miguel Moreno
 ### Se agregan los pantallazos de "hola mundo" ejecutado de diferentes maneras=
 - En el block de notas
 - En el interprete de python
